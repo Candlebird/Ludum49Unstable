@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.twin-stick-game-template-bp-15973114.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/LudumDare49/LudumUnstable/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/LudumDare49/Ludum49Unstable/LudumUnstable/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
